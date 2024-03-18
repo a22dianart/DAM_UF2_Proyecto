@@ -1,6 +1,6 @@
 # GDD
 
-## PRESENTACIÓN/RESUMEN
+## PRESENTACIÓN/RESUMEN
 
 - Pink-o-ween
 - Concepto: Es un juego de escape rápido que medirá las destrezas del usuario además de que lo envuelve en una estética determinada.
@@ -11,11 +11,11 @@
 
 ## GAMEPLAY
 
-### Objetivos
+### Objetivos
 
 El objectivo principal será llegar a la meta sin perder las 3 vidas que tiene el personaje.
 
-#### Jugabilidad
+#### Jugabilidad
 
 Para hacer el juego muy atractivo se juegan con los elementos visuales para atraer visualmente al usuario. Además es un jueg 
 
